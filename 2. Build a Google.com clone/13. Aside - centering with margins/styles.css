@@ -1,4 +1,7 @@
 img {
     width: 200px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
 }
 

@@ -1,4 +1,17 @@
-body {
-    background: red;
+.main{
+    margin-top: 100px;
 }
+
+.logo-img{
+    display: block;
+    width: 300px;
+    
+}
+
+.search-input{
+    width: 500px;
+    display: block;
+}
+
+
 

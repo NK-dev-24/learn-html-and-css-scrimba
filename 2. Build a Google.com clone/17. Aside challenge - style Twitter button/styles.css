@@ -8,3 +8,22 @@ border color: #cfd9de
 text color: #0f1419
 Remember the font-weight!
 */
+
+body{
+  margin: 50px;
+}
+
+
+button{
+  background-color: white;
+  border: 1px solid #cfd9de ;
+  border-radius: 20px; ;
+
+  padding-left: 15;
+  padding-right: 15;
+  padding-top:5;
+  padding-bottom:5;
+
+  color: #0f1419;
+  font-weight: bold;
+}
