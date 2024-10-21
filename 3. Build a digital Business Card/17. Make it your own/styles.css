@@ -5,35 +5,57 @@ body {
     Find a web safe font you like, and add it 
     to your card.
     */
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Poppins', Tahoma, sans-serif;
 }
 
 .avatar {
     width: 150px;
+    border: 2px solid #000000;
+    border-radius: 100px;
 }
 
 .card {
-    width: 400px;
-    margin: 0 auto;
+    width: 200px;
+    margin: 60px auto;
     padding: 20px;
-    display: flex;
     justify-content: space-around;
     text-align: center;
-    background: #ddebf8;
+    background: palegreen;
     color: #2b2839;
-    border-bottom: 6px solid #d8cefe;
+    border: 2px solid #2d043a;
+    border-radius: 10px;
         
     /*
     Challenge:
     Find a color palette you like on Coolors.co
     and use it in your business card.
      */
+
 }
 
-.border-blue {
-    border: 1px dotted blue;
+h4 {
+    font-size: small;
 }
 
+.Linkedin-button{
+    border: 1px solid #86888A ;
+    border-radius: 4px;
+    background-color: #0077B5;
+    padding: 8px 16px;
+}
+
+.Github-button{
+    border: 1px solid #86888A ;
+    border-radius: 4px;
+    background-color: #171515;
+    padding: 8px 16px;
+}
+
+a{
+    text-decoration:none;
+    color: #ffffff ;
+    
+}
 /*
 Stretch goals:
 Find other ways you can personalize 

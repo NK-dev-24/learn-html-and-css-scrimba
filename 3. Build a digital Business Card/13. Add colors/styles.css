@@ -22,6 +22,9 @@ body {
     blue - #ddebf8
     purple - #d8cefe
     */
+    color:#2b2839 ;
+    background-color:#ddebf8 ;
+    border-bottom: 5px solid #d8cefe;
 }
 
 .border-blue {
