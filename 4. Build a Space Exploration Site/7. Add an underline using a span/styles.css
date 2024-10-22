@@ -17,3 +17,7 @@ body {
 Challenge:
 Add the underline to the title using a <span> and a class.
 */
+.underline{
+    text-decoration: underline;
+    text-underline-offset: 8px ;
+}

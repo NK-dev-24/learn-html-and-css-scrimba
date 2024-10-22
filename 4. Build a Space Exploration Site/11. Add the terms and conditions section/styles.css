@@ -12,11 +12,16 @@ tag's default margin.
 */
 
 body {
-    color: #82a5ca;
+    margin-bottom: 0;
+}
+
+#hero{
+    padding: 10px 0 40px 0;
     background-image: url("images/galaxy.webp");
     background-size: cover;
+    color: #82a5ca;
     text-align: center;
-    font-family: 'Orbitron', sans-serif;
+    font-family: 'Orbitron', sans-serif; 
 }
 
 #main-logo {
@@ -35,4 +40,12 @@ body {
 .underline {
     border-bottom: 4px solid white;
 }
-   
+
+h3{
+    font-family: 'Orbitron', sans-serif;
+    color: #82a5ca;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 800;
+    padding-top: 9px;
+} 

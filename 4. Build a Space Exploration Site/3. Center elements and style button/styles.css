@@ -9,6 +9,14 @@ body {
     color: white;
     background-image: url("images/universe.jpg");
     background-size: cover;
+    text-align: center;
+    font-weight: bold;
 }
 
-.btn
+
+.btn{
+    background-color: white;
+    padding: 4px 10px;
+    border: 0px solid;
+    font-weight: bold;
+}
